@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhadihub&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhadihub" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://abdulhadihub.github.io/abdul-hadi-portfolio/](https://abdulhadihub.github.io/abdul-hadi-portfolio/)
+- 👨‍💻 All of my projects are available at [https://abdulhadihub.vercel.app/](https://abdulhadihub.vercel.app/)
 
 - 📫 How to reach me **abdulhadi.reality@gmail.com**
 
