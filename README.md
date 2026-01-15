@@ -33,6 +33,9 @@
 [![Git Badge](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/MS%20SQL-a21518?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](#)
 
+### Certifications
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20–%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/1b8c83c982b547e3a49efc23c6d3f20e)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhadihub&show_icons=true&locale=en&layout=compact" alt="abdulhadihub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhadihub&show_icons=true&locale=en" alt="abdulhadihub" /></p>
