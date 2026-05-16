@@ -2,7 +2,7 @@
 
 # Abdul Hadi Farooq
 
-**Full-Stack Engineer** · Paris, France
+**AI Full-Stack Engineer** · Paris, France
 
 [Portfolio](https://abdulhadihub.vercel.app/) · [LinkedIn](https://linkedin.com/in/abdul-hadi-farooq-7839b025a) · [Email](mailto:abdulhadi.reality@gmail.com)
 
