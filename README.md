@@ -6,7 +6,7 @@
 
 [Portfolio](https://abdulhadihub.vercel.app/) · [LinkedIn](https://linkedin.com/in/abdul-hadi-farooq-7839b025a) · [Email](mailto:abdulhadi.reality@gmail.com)
 
-[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/1f284a01-e627-479d-a0fd-3a9a25d54abd/public_url) [![MSc Sorbonne Université](https://img.shields.io/badge/MSc%20CS-Sorbonne%20Université-800020?style=flat-square)](https://www.sorbonne-universite.fr/)
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/1f284a01-e627-479d-a0fd-3a9a25d54abd/public_url) [![MSc CS – Sorbonne Université \+ CNAM](https://img.shields.io/badge/MSc%20CS%20–%20Sorbonne%20Université%20%2B%20CNAM-800020?style=flat-square)](https://www.sorbonne-universite.fr/)
 
 </div>
 
