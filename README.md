@@ -1,43 +1,69 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Abdul Hadi</h1>
-<h3 align="center">A Full Stack Software Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhadihub&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhadihub" /> </p>
+# Abdul Hadi Farooq
 
-- 👨‍💻 All of my projects are available at [https://abdulhadihub.vercel.app/](https://abdulhadihub.vercel.app/)
+**Full-Stack Engineer** · Paris, France
 
-- 📫 How to reach me **abdulhadi.reality@gmail.com**
+[Portfolio](https://abdulhadihub.vercel.app/) · [LinkedIn](https://linkedin.com/in/abdul-hadi-farooq-7839b025a) · [Email](mailto:abdulhadi.reality@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdul-hadi-farooq-7839b025a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-hadi-farooq-7839b025a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16561235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16561235" height="30" width="40" /></a>
-</p>
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/1f284a01-e627-479d-a0fd-3a9a25d54abd/public_url) [![MSc Sorbonne Université](https://img.shields.io/badge/MSc%20CS-Sorbonne%20Université-800020?style=flat-square)](https://www.sorbonne-universite.fr/)
 
-### Languages
-[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Git Badge](https://img.shields.io/badge/C++-1572B6?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
-[![Git Badge](https://img.shields.io/badge/c%23-964d92?style=for-the-badge&logo=csharp&logoColor=white)](#)
-[![Git Badge](https://img.shields.io/badge/Java-5283a2?style=for-the-badge&logo=&logoColor=white)](#)
+</div>
 
-### Technologies
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) 
-[![Git Badge](https://img.shields.io/badge/Node.JS-7bc60c?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![Git Badge](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
-[![Git Badge](https://img.shields.io/badge/Mongo%20DB-4da53f?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+---
 
-[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)  [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)  [![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](#)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Git Badge](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)](#)
-[![Git Badge](https://img.shields.io/badge/MS%20SQL-a21518?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](#)
+I build production software across the stack — TypeScript, React, Node.js, Python, PostgreSQL. Currently working on platform architecture and sales infrastructure at a $1B+ MENA technology group.
+
+**What I'm focused on:** scalable full-stack systems, AI-integrated products, and clean, maintainable code that ships.
+
+---
+
+### Tech Stack
+
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Front-end Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+#### Back-end Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+
+#### Mobile App Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### AI / Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF9900?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+#### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+#### Cloud Services
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Certifications
-[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20–%20Associate-1a26af?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/1f284a01-e627-479d-a0fd-3a9a25d54abd/public_url)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhadihub&show_icons=true&locale=en&layout=compact" alt="abdulhadihub" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhadihub&show_icons=true&locale=en" alt="abdulhadihub" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadihub&" alt="abdulhadihub" /></p>
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_–_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/1f284a01-e627-479d-a0fd-3a9a25d54abd/public_url)
